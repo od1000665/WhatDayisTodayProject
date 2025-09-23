@@ -1,0 +1,14 @@
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\bin\Debug\net8.0\DayisIt.exe
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\bin\Debug\net8.0\DayisIt.deps.json
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\bin\Debug\net8.0\DayisIt.runtimeconfig.json
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\bin\Debug\net8.0\DayisIt.dll
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\bin\Debug\net8.0\DayisIt.pdb
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.AssemblyInfoInputs.cache
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.AssemblyInfo.cs
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.csproj.CoreCompileInputs.cache
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.dll
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\refint\DayisIt.dll
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.pdb
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\DayisIt.genruntimeconfig.cache
+C:\Users\od1000665\OneDrive - Ozarks Technical Community College\DayisIt\obj\Debug\net8.0\ref\DayisIt.dll
